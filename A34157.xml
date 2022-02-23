@@ -1,0 +1,1108 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Complaint of the poor being deprived of their former way of living, by the uncharitable, lately made against begging : the first cry.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 32 KB of XML-encoded text transcribed from 15 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A34157</idno>
+            <idno type="STC">Wing C5617</idno>
+            <idno type="STC">ESTC R20730</idno>
+            <idno type="EEBO-CITATION">12259428</idno>
+            <idno type="OCLC">ocm 12259428</idno>
+            <idno type="VID">57783</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A34157)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 57783)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 177:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Complaint of the poor being deprived of their former way of living, by the uncharitable, lately made against begging : the first cry.</title>
+               </titleStmt>
+               <extent>29 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for the godly, to consider the poor's case,</publisher>
+                  <pubPlace>[S.l.] :</pubPlace>
+                  <date>1700.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Poor --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:57783:1"/>
+            <pb facs="tcp:57783:1"/>
+            <p>THE COMPLAINT OF THE POOR Being Deprived of their former way of Living, by the Un<g ref="char:EOLhyphen"/>charitable, lately made againſt Begging.</p>
+            <p>The firſt Cry.</p>
+            <q>
+               <l>Nil habet infelix Paupertas durius in ſe</l>
+               <l>Quam quod ridiculos homines facit</l>
+               <bibl>—Juven<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </bibl>
+            </q>
+            <p>Printed for the Godly, to Conſider the Poor's Caſe. 1700.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:57783:2"/>
+            <pb facs="tcp:57783:2"/>
+            <head>The Pitiful Complaint of the POOR.</head>
+            <lg>
+               <l>YE Ruler<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> all both Great and Smal,</l>
+               <l>me think ye ſtand no aw.</l>
+               <l>To trouble and oppreſs the Poor,</l>
+               <l>by this Your new coin'd Law.</l>
+               <l>In <hi>Judah</hi> and in <hi>Iſrael</hi>
+               </l>
+               <l>of old have Poor Men been,</l>
+               <l>Who were allow'd by Divine Law</l>
+               <l>Fields and Vineyeards to glean.</l>
+               <l>They might not wholly reap their Corn<g ref="char:punc">▪</g>
+               </l>
+               <l>as ye may read and <gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e,</l>
+               <l>But part of them leave to the Poor:<note place="margin">Deut. 24: 20. 19 Levit: 19, 9. &amp; 23 22:</note>
+               </l>
+               <l>that he may live with thee.</l>
+               <l>
+                  <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> they by chance foreget o're night</l>
+               <l>on Fields a Sheaf of Corn,</l>
+               <l>Into that ſheaf the Poor had right,</l>
+               <l>to bring it home the morn.</l>
+               <l>
+                  <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd ſuch as could not ſee nor walk,<note place="margin">John 9. 8.</note>
+               </l>
+               <l>we read have likewiſe been,</l>
+               <l>
+                  <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ho begged by the High way ſide,</l>
+               <l>becauſe they could not Glean.</l>
+               <l>
+                  <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ut now, alas! that Law's made void,</l>
+               <l>the loſs is ours therefore,</l>
+               <l>
+                  <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hey'le neither ſuffer us to glean,</l>
+               <l>nor beg from door to door.</l>
+               <pb n="4" facs="tcp:57783:3"/>
+               <l>From Poor Mens cryes they ſtop their ears,</l>
+               <l>and cloſe their Eyes do they,</l>
+               <l>Their ſtubborn words to Beggars tears<g ref="char:punc">▪</g>
+               </l>
+               <l>their hardned hearts bewary,</l>
+               <l>To ſome they gave a little thing,</l>
+               <l>their Favourites yet more:</l>
+               <l>But ſuch their Wiſdoms who diſpleaſe,</l>
+               <l>their Names quite out they ſcore.</l>
+               <l>
+                  <hi>Judas</hi> pretends more Charitie,<note place="margin">John 12 5.</note>
+               </l>
+               <l>than any of the Reſt,</l>
+               <l>Yet was a Traitor in his heart,</l>
+               <l>for all that he profeſt:</l>
+               <l>He was a Thief, and bear the Bag,</l>
+               <l>and all that was therein:</l>
+               <l>But yet he car'd not for the Poor,</l>
+               <l>the greater was his ſin.</l>
+               <l>Ye Kirk-men who did undertake,</l>
+               <l>us Beggars to mantain;</l>
+               <l>One day, be ſure, account ye'le make.</l>
+               <l>what S<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ewards ye have been,</l>
+               <l>
+                  <hi>Gods</hi> Law Commands, <hi>we ſhall not Steal</hi>
+                  <note place="margin">
+                     <hi>Exod</hi> 20<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </note>
+               </l>
+               <l>it's Juſt and Equal too,</l>
+               <l>Your Law commands, <hi>we ſhall not Begg</hi>
+               </l>
+               <l>alas! what ſhall we do?</l>
+               <l>For Cold and Hunger cauſe our grief,</l>
+               <l>'gainſt which we cannot Fend:</l>
+               <l>If ſhortly we get not Relief,</l>
+               <l>our Lives moſt take an end,</l>
+               <pb n="5" facs="tcp:57783:3"/>
+               <l>our Wiſdoms now have raiſed Stents,</l>
+               <l>which ſore the People grieve,</l>
+               <l>And ſuch as pay not willingly,</l>
+               <l>from them ye poynd and Rieve.</l>
+               <l>But we would ask at you wi<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h leave</l>
+               <l>Precept or Practice found,</l>
+               <l>Where ever Charity was forc'd,</l>
+               <l>or yet the Poor was bound<g ref="char:punc">▪</g>
+               </l>
+               <l>Begin, Sirs, at the <hi>Geneſts,</hi>
+               </l>
+               <l>read all the <hi>Bible</hi> throw,</l>
+               <l>Find Precept or Example there,</l>
+               <l>that will your Deeds allow,</l>
+               <l>For <hi>Chriſt</hi> who is the Truth, hath ſaid,<note place="margin">
+                     <hi>Jo<gap reason="illegible" resp="#MURP" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>
+                     </hi> 6: 12:</note>
+               </l>
+               <l>
+                  <hi>we alwiſe Poor ſhall have.</hi>
+               </l>
+               <l>Who from our Doors ſhall never ceaſe,</l>
+               <l>ſupply from us to crave.</l>
+               <l>But now, forſooth, your Wiſdoms ſay,</l>
+               <l>tha<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ye will us Diſcharge:</l>
+               <l>And for our Maintenance cauſe men</l>
+               <l>their Charity enlarge.</l>
+               <l>And force them pay under the pain</l>
+               <l>of poinding and of more,</l>
+               <l>The like in <hi>Scotland</hi> was not ſeen</l>
+               <l>theſe Thouſand years before:</l>
+               <l>To force men pay unto the poor</l>
+               <l>more than Abilitie;</l>
+               <l>Let all the world Hear and Judge</l>
+               <l>if this be Charitie<g ref="char:punc">▪</g>
+               </l>
+               <pb n="6" facs="tcp:57783:4"/>
+               <l>Th' Afflicted's cauſe <hi>God</hi> will maintain,<note place="margin">
+                     <hi>Pſal:</hi> 140: 12</note>
+               </l>
+               <l>and right of all his poor:</l>
+               <l>Our cauſe is good, <hi>God</hi> Mighty is,</l>
+               <l>our victory is ſure.</l>
+               <l>The Poor ſhall not ceaſe from the Land,</l>
+               <l>although at them ye grieve:</l>
+               <l>Then open, Sirs, your Scattering Hand,</l>
+               <l>and grudge not-when ye give.</l>
+               <l>For he that giveth to the poor<note place="margin">
+                     <hi>Prov:</hi> 16: 17.</note>
+               </l>
+               <l>unto the Lord doth lend:</l>
+               <l>On all that Mans Affairs, be ſure</l>
+               <l>GOD will his Bleſſing ſend.</l>
+               <l>Let ſuch as will no Mercy ſhew,<note place="margin">
+                     <hi>James</hi> 2: 1,</note>
+               </l>
+               <l>for Juſtice them prepare,</l>
+               <l>Without a mixture, that's for you,</l>
+               <l>as Scripture doth declare.</l>
+               <l>Beware then of our Guiltleſs Blood,</l>
+               <l>and let the Poor alone:</l>
+               <l>There will be Beggars in the Land</l>
+               <l>when ye are dead and gone.</l>
+               <l>And Thieves and Rogues will never ceaſe</l>
+               <l>for ought that ye can do:</l>
+               <l>The Godly poor if ye them wrong,</l>
+               <l>Judgment will follow you.</l>
+               <l>Since Widows, Poor and Fatherleſs</l>
+               <l>ſo much of you complain,</l>
+               <l>Then Gracious <hi>Lord</hi> who ſees their caſe,</l>
+               <l>their Rights judge and mainain.</l>
+               <pb n="7" facs="tcp:57783:4"/>
+               <l>That Noble Grace of <hi>Hamiltoun,</hi>
+               </l>
+               <l>She gives much to the Poor:</l>
+               <l>If ſhe knew how its Diſtribute,</l>
+               <l>She would be grieved ſure.</l>
+               <l>All that her Grace doth in this Land,</l>
+               <l>ſhe doth it for the beſt,</l>
+               <l>But knows not how the poor are ſtarv'd,</l>
+               <l>yet people are oppreſt.</l>
+               <l>If any aſk, what way oppreſt?</l>
+               <l>Or how this ſhall be kent?</l>
+               <l>The poor among them alwiſe Beg</l>
+               <l>though People pay the Stent</l>
+               <l>An half penny for every day,</l>
+               <l>on ſome they do allow,</l>
+               <l>And other ſome an Achiſon,</l>
+               <l>judge ye if they be fow,</l>
+               <l>When poor Folke Begg, they anſwer them,</l>
+               <l>ye ſhall get nought from me,</l>
+               <l>I'm not a fool to pay a fine,</l>
+               <l>for giving your ſupplie.</l>
+               <l>Yet others will ſome Favour ſhew,</l>
+               <l>though it be very ſmall,</l>
+               <l>And ſay, thou'ſt not at my door die,</l>
+               <l>when down we're like to fall.</l>
+               <l>We wander thus from houſe to houſe,</l>
+               <l>when it is dark and late;</l>
+               <l>We Moutn, we Cry, and make a Noiſe,</l>
+               <l>no Lodging we can get.</l>
+               <pb n="8" facs="tcp:57783:5"/>
+               <l>Some are found dead into the Fields,</l>
+               <l>ſome Swoon upon the Street,</l>
+               <l>And other ſome are ſtarv'd to death,</l>
+               <l>for fault of Cloaths and meat<g ref="char:punc">▪</g>
+               </l>
+               <l>Lay down a way us to preſerve,</l>
+               <l>or elſe let us alone:</l>
+               <l>Though we be poor our Blood will cry,</l>
+               <l>when we are dead and gone.</l>
+               <l>The Lord the poor did not forget,</l>
+               <l>when he did give the Law.</l>
+               <l>
+                  <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Charter <hi>Moſes</hi> then did write,</l>
+               <l>we have it ye<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to ſh<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>w,</l>
+               <l>J<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>dicial Laws ſh<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uld be obſerv'd,</l>
+               <l>good Morals where they teach:</l>
+               <l>And what they ſay contrare to theſe,</l>
+               <l>doth no mans Conſcience teach.</l>
+               <l>This Fooliſh Law can find no ground</l>
+               <l>except what's very bare</l>
+               <l>For Law and G<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſpel both do ſound,</l>
+               <l>againſt it every where;</l>
+               <l>Chriſt ſaith, a Trumpet do not ſound,<note place="margin">
+                     <hi>Matt.</hi> 6:2:</note>
+               </l>
+               <l>when Charity ye give:</l>
+               <l>But now a Sett of men is found,</l>
+               <l>will not let Neighbours live.</l>
+               <l>Except that they the Trumpet Blow,</l>
+               <l>they'le blow them to the Horn,</l>
+               <l>And poind their Plates and S<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oups alſo,</l>
+               <l>if they their Orders ſcorn,</l>
+               <pb n="9" facs="tcp:57783:5"/>
+               <l>Again, let not your left Hand know<note place="margin">
+                     <hi>Matt:</hi> 6: <gap reason="illegible" resp="#MURP" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </note>
+               </l>
+               <l>what your right Hand doth give,</l>
+               <l>When ye your Charity beſtow</l>
+               <l>give freely, do not grieve.</l>
+               <l>But now mens Names enroled be.</l>
+               <l>(ye know, it's beſt be ſure)</l>
+               <l>That all their Neighbours hear and ſee</l>
+               <l>what they give to the poor.</l>
+               <l>Once more, the Scripture doth adviſe<note place="margin">2 <hi>Cor.</hi> 8: 12:</note>
+               </l>
+               <l>for readineſs of will,</l>
+               <l>In giving Alms, or otherwiſe</l>
+               <l>our Charity we Spill.</l>
+               <l>If there be firſt a willing mind,</l>
+               <l>it is enough we hear,</l>
+               <l>To give according as we find</l>
+               <l>our want or wealth can bear.</l>
+               <l>Becauſe, he ſaith, a Cup of Water<note place="margin">
+                     <hi>Matt<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </hi> 10: 420</note>
+               </l>
+               <l>beſtow'd upon the poor,</l>
+               <l>When honeſt hearts can give no better,</l>
+               <l>ſhall be rewarded ſure.</l>
+               <l>But now we want out ſop and bit,</l>
+               <l>which often did us good,</l>
+               <l>Yet Givers not oppreſt by it,</l>
+               <l>we'le make this underſtood;</l>
+               <l>Cold Pottage, Broth, or Bits of Bread,</l>
+               <l>where Cats perhaps had piſt,</l>
+               <l>Did very oft relieve our need,</l>
+               <l>and yet were never miſt:</l>
+               <pb n="10" facs="tcp:57783:6"/>
+               <l>Yea Six did gave us Meat and Drink,</l>
+               <l>where one gave us a boddle;</l>
+               <l>So theſe new Beggar Laws we think,</l>
+               <l>bred in an emp<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y noddle.</l>
+               <l>For ſome do ſee ſince for the poor</l>
+               <l>they <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aiſ'd this fooliſh Stent,</l>
+               <l>Their Meat was bleſt to them before,</l>
+               <l>but now a Curſe is in't.</l>
+               <l>And ſome for ſhame have promiſ'd more</l>
+               <l>than well they can allow.</l>
+               <l>Their Stocks exauſted are ſo ſore</l>
+               <l>and almoſt ſpent we now:</l>
+               <l>Yet ſtrive to keep a fair our ſide</l>
+               <l>for fear their Credits crack,</l>
+               <l>And Labour thus their caſe to hide,</l>
+               <l>leaſt all ſhould go to Wrack.</l>
+               <l>But theſe Corroſive Stents do gnaw</l>
+               <l>their pu<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſſes to the bone,</l>
+               <l>This miſchief fram'd into a Law</l>
+               <l>hurts not the poor alone.</l>
+               <l>The Scripture ſaith, with hold nor good<note place="margin">
+                     <hi>Prov:</hi> 3: 17:</note>
+               </l>
+               <l>from him to whom it's due:</l>
+               <l>This paſſage now is underſtood</l>
+               <l>and done by very few.</l>
+               <l>That help ye ought us. Sirs, we might</l>
+               <l>from this place fully prove,</l>
+               <l>Not only from the Law of Right,</l>
+               <l>but from the Law of Love,</l>
+               <pb n="11" facs="tcp:57783:6"/>
+               <l>But yet, we fear, ſome Churle might ſay,</l>
+               <l>proud Beggars get you gone:</l>
+               <l>What intereſt in my means have they?</l>
+               <l>are not my goods my own?</l>
+               <l>I got my wealth by no mans wrong,</l>
+               <l>I earn'd it with my ſweat,</l>
+               <l>ſhould Strangers then come in among,</l>
+               <l>my Fortune and Eſtate?</l>
+               <l>And Lazie<g ref="char:punc">▪</g> Luſie Rogues, ſhould ſpend,</l>
+               <l>my ſubſtance and my ſtore,</l>
+               <l>Who ſeek no Honeſt way to fend,</l>
+               <l>but Skip from door to door.</l>
+               <l>Such Gaber-Lunzie men as they,</l>
+               <l>no Charity ſhould have,</l>
+               <l>But whip them twice or thrice a day,</l>
+               <l>when they their Dinner crave.</l>
+               <l>If this were done, this Land might ſoon,</l>
+               <l>from Beggats cryes be free,</l>
+               <l>And <hi>Scotland</hi> yet might change her tune.</l>
+               <l>if this we once might ſee.</l>
+               <l>It's true, ſir, you may pleaſe your ſelf,</l>
+               <l>with ſuch a merry cant,</l>
+               <l>Becauſe you have the penny pelf,</l>
+               <l>which poor men now do want,</l>
+               <l>But had we Money in our purſe,</l>
+               <l>then we might Reaſon thus,</l>
+               <l>And Rich men we could plague and Curſe,</l>
+               <l>who now do hunger us.</l>
+               <pb n="12" facs="tcp:57783:7"/>
+               <l>Come change your Lots a while with ours,</l>
+               <l>ſince ye our caſe envy?</l>
+               <l>Take ye our Denners, give us yours,</l>
+               <l>the beſt way is to try,</l>
+               <l>Come every cold and ſtormy night,</l>
+               <l>give us your Chamber free,</l>
+               <l>Take ve the ſheep-houſe never dight,</l>
+               <l>or take the Barn or Bire,</l>
+               <l>Come take our Tatter'd Louſie Rags,</l>
+               <l>we'le better Cloaths put on:</l>
+               <l>Then, Sirs, we fear for all your brags,</l>
+               <l>ye ſoon would change your tone.</l>
+               <l>Your well fed Cheeks, we fear, ſhould then</l>
+               <l>grow pale as ours are now,</l>
+               <l>When Death his picture with a pen,</l>
+               <l>had drawen upon your brow.</l>
+               <l>Were ye but Lodged half a year,</l>
+               <l>as ſome of us have been,</l>
+               <l>In houſes wanting fire; we fear,</l>
+               <l>a change would ſoon be ſeen,</l>
+               <l>It's eaſy, Sirs, for you to Cra<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>k,</l>
+               <l>and p<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>at againſt the poor:</l>
+               <l>Your Reaſons are not worth a plack<g ref="char:punc">▪</g>
+               </l>
+               <l>in Gods ſight, we are ſure.</l>
+               <l>Ye ſay that poor men ſhould not Beg,</l>
+               <l>leſt Rich men take offence.</l>
+               <l>That Reaſon is not worth a <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>egg,</l>
+               <l>to any man of ſenſe,</l>
+               <pb n="13" facs="tcp:57783:7"/>
+               <l>When <hi>Jeſus</hi> went from <hi>Jericho,</hi>
+                  <note place="margin">
+                     <hi>Mark,</hi> 9. 49.</note>
+               </l>
+               <l>(the ſtory well is known)</l>
+               <l>Great multitudes did with him go,</l>
+               <l>as Scripture hath us ſhown.</l>
+               <l>Blind <hi>Bartimens</hi> got his ſight,</l>
+               <l>but no Reproof at all,</l>
+               <l>For Begging, though the Lord had Right,</l>
+               <l>him to account to call,</l>
+               <l>From whence an Obſervation we,</l>
+               <l>may draw from our Relief,</l>
+               <l>Which may for Conſolation be,</l>
+               <l>'gainſt poverty and grief.</l>
+               <l>Poor <hi>Lazarus,</hi> Lepers, Bedlams, Blind,</l>
+               <l>and other ſorts alſo,</l>
+               <l>Without a Cure we alwiſe find,</l>
+               <l>did never from him go,</l>
+               <l>Whereas the Lawyers and the Lairds,</l>
+               <l>and others like the ſame,</l>
+               <l>Who tempted Chriſt by Flattering Fairds,</l>
+               <l>went oft times as they came.</l>
+               <l>If ſome of us be lame and halt,</l>
+               <l>and ſo unfit to dig,</l>
+               <l>Why ſhould your Wiſdoms then find fault</l>
+               <l>with us becauſe we big,</l>
+               <l>If ſome of us be come to years,</l>
+               <l>and yet we nothing have,</l>
+               <l>Should ye bring down our Old gray hairs,</l>
+               <l>with Hunger to the Graves.</l>
+               <pb n="14" facs="tcp:57783:8"/>
+               <l>Again, if ſome of us be young,</l>
+               <l>(and younger none can wiſh)</l>
+               <l>Alas! ſhall we be alwiſe dung,</l>
+               <l>with hunger in our diſh?</l>
+               <l>If ſome of us have held a houſe,</l>
+               <l>with grief and care perplext,</l>
+               <l>With leſs-meat than would ſtarve a mouſe:</l>
+               <l>Sirs, what ſhall we do next?</l>
+               <l>For if we take the Prick and Sheet,</l>
+               <l>and Staff into our Hands,</l>
+               <l>We dare not now be ſeen on Street</l>
+               <l>in City or in Lands.</l>
+               <l>For by and by <hi>John Scourge the Poor:</hi>
+               </l>
+               <l>or elſe the <hi>Hangmans</hi> Son,</l>
+               <l>Doth Cudgel us from Door to Door</l>
+               <l>as we had Miſchief done.</l>
+               <l>So we who ſometimes wont to Bliſs,</l>
+               <l>the Rich Man as our Father,</l>
+               <l>Are thus provocked now to wiſh,</l>
+               <l>them Hanged all together.</l>
+               <l>Where its deſerved all Confeſs,</l>
+               <l>the Poor-mans Curſe is ſad</l>
+               <l>And often hits, Sirs, ye may gueſs</l>
+               <l>Oppreſſion makes us madd.</l>
+               <l>
+                  <hi>We</hi> gather Weeds amongſt the Corn,</l>
+               <l>this is but ſmall Relief,</l>
+               <l>And yet for pity we get Scorn,</l>
+               <l>which adds into our grief;</l>
+               <pb facs="tcp:57783:8"/>
+               <l>Such filthy Traſh corrupts our Blood</l>
+               <l>our Humors poiſons too,</l>
+               <l>Yet doth our Stomack little good</l>
+               <l>Ah! Sirs, what ſhall we do!</l>
+               <l>That is true the Land knows well,</l>
+               <l>we ſpeak it as it is,</l>
+               <l>Yea ſome who neither begg nor Steal,</l>
+               <l>have follow'd us in this.</l>
+               <l>Who ſuch a ſobber ſhift did take,</l>
+               <l>when Richer ſort did Sleep.</l>
+               <l>We think ſuch ſad Complaints ſhould make</l>
+               <l>even Hearts of Stone to Weep.</l>
+               <l>A<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d this through Summers ſcorching heat,</l>
+               <l>out way theſe Years hath been</l>
+               <l>We thought that all things taſted ſweet,</l>
+               <l>if they were only green.</l>
+               <l>Ay waiting till <hi>Autumnus</hi> ſhould</l>
+               <l>make Fruits in caſe to pull:</l>
+               <l>
+                  <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f that were come we thought we would,</l>
+               <l>get P<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>s and Pockets full.</l>
+               <l>o ſome went Northward to <hi>Falkirk,</hi>
+               </l>
+               <l>from thenſe down to <hi>Daderſſe,</hi>
+               </l>
+               <l>And then when once the Night grew Mirk,</l>
+               <l>we ſpied down through the <hi>Kerſe.</hi>
+               </l>
+               <l>his ſpot doth lye like <hi>Goſhen</hi> Land</l>
+               <l>both good and fertile is,</l>
+               <l>Nature it ſelf cannot Command,</l>
+               <l>a Richer ſoil than this.</l>
+               <pb n="16" facs="tcp:57783:9"/>
+               <l>But yet we need not like it well,</l>
+               <l>we got not leave to lu<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>k,</l>
+               <l>Becauſe <hi>Egyptians</hi> there do dwell</l>
+               <l>more Savage than the Turk.</l>
+               <l>Theſe Sons of <hi>Anack</hi> did us Scarr</l>
+               <l>and chaſe away with eaſe,</l>
+               <l>Who watch like <hi>Judas</hi> Men of War<g ref="char:punc">▪</g>
+               </l>
+               <l>to keep us from the Peaſe.</l>
+               <l>We ſilly Souls came creeping home,</l>
+               <l>and this was all we got.</l>
+               <l>But all did not return: for ſome</l>
+               <l>did fall upon the ſpot,</l>
+               <l>And did not riſe, not never will,</l>
+               <l>untill the Judgement day,</l>
+               <l>When Rich ſhall ſee, Poot-men to kill,</l>
+               <l>hath been no pleaſant play.</l>
+               <l>Th<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſe Broſie Fellows thought that we</l>
+               <l>were alſe well fill'd with Meat</l>
+               <l>As they, when every Man may ſee</l>
+               <l>we nothing have to Eat,</l>
+               <l>Our Harveſt, Winter, and our Spring</l>
+               <l>and Summers are alike:</l>
+               <l>We can foreſee no other thing</l>
+               <l>but Die, Sirs, by a Dyke!</l>
+               <l>But yet our Gentlemen and Lairds,</l>
+               <l>who cares not for the Poor,</l>
+               <l>Can ſpend their Guinea's at the Cards</l>
+               <l>or yet upon a Whore,</l>
+               <pb n="17" facs="tcp:57783:9"/>
+               <l>While not reform'd from Drink and Play<g ref="char:punc">▪</g>
+               </l>
+               <l>and ſuch vain Converſation,</l>
+               <l>How can your Wiſdoms think or ſay</l>
+               <l>this is a Reformation?</l>
+               <l>Kirk men who ſhould the Poor preſerve</l>
+               <l>who to their Cure belong;</l>
+               <l>Have found a way the poor to ſtarve</l>
+               <l>Sirs, is not this a Wrong?</l>
+               <l>They call us idle Vagrant Lowns,</l>
+               <l>when at their Gates we yell<g ref="char:punc">▪</g>
+               </l>
+               <l>And ſome of them do knock our crowns</l>
+               <l>although we dare not tell.</l>
+               <l>Sirs, ye may think this a Lie,</l>
+               <l>and forg'd out of envy,</l>
+               <l>But yet it can inſtructed be,</l>
+               <l>if ye the matter try.</l>
+               <l>But what's the hazard how we die,</l>
+               <l>by Hang-man, or by Prieſts?</l>
+               <l>We will no more regarded be</l>
+               <l>then we were Brutal Beaſts.</l>
+               <l>When thus our Souls wear out at laſt,</l>
+               <l>they lay us on a Barrow.</l>
+               <l>Us and our Rags in holes they caſt,</l>
+               <l>thus ends our Earthly ſorrow:</l>
+               <l>But well are they who dy'd before:</l>
+               <l>for they who ſtay behind,</l>
+               <l>Muſt dy a Thouſand Deaths and more,</l>
+               <l>while thus with hunger pin'd<g ref="char:punc">▪</g>
+               </l>
+               <pb n="18" facs="tcp:57783:10"/>
+               <l>Some got a Three-pence in a Week,</l>
+               <l>and other ſome got leſs,</l>
+               <l>When Meal gave Twenty pence a Peck</l>
+               <l>how we liv'd ye may gueſs;</l>
+               <l>I<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> is no wonder, we Conf<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſs,</l>
+               <l>your Projects backward go;</l>
+               <l>For poor mens boweis do not bleſs</l>
+               <l>as they had wont to do.</l>
+               <l>It's true, the <hi>Biſhops</hi> as a Weed</l>
+               <l>fr<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m this Church caſt ye have</l>
+               <l>Y<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <hi>Biſhop Weed;</hi> believe indeed,</l>
+               <l>k<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eps ſome folk from their grave:</l>
+               <l>For were it not that Stinking Weed,</l>
+               <l>our Po<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s play very thin,</l>
+               <l>Y<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a nothing, Sirs, our Guts to feed</l>
+               <l>at all would be therein.</l>
+               <l>But <hi>Prelacy</hi> on <hi>Engliſh</hi> Ground</l>
+               <l>brings plenty as we ſee</l>
+               <l>Wh<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>le <hi>Biſhop Weed,</hi> as we have found,</l>
+               <l>br<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ught SCOTLANDS Miſerie.</l>
+               <l>Now ſince that Noxious Weed is caſt</l>
+               <l>out of the LORDS Vineyard,</l>
+               <l>What can the Cauſes be at laſt,</l>
+               <l>h<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oth us not regard?</l>
+               <l>
+                  <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> years of Dearth we may be ſure</l>
+               <l>have not come on by gueſſe,</l>
+               <l>Judge as ye will: we who are poor</l>
+               <l>at leaſt can think no leſſe<g ref="char:punc">▪</g>
+               </l>
+               <pb facs="tcp:57783:10"/>
+               <l>Men are complaining now of dayes<g ref="char:punc">▪</g>
+               </l>
+               <l>of ſharpneſs of the Rod;</l>
+               <l>Yet few diſcernign how their wayes</l>
+               <l>diſpleaſing are to GOD.</l>
+               <l>Of many Cauſes, ye may ſay,</l>
+               <l>it's one among the reſt,</l>
+               <l>That we poor Beggars, once a day,</l>
+               <l>no thankfulneſs expreſt;</l>
+               <l>When White and Gray. Meal p<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cks were full,</l>
+               <l>and we no hardſhip felt,</l>
+               <l>With GOD who gave us wealth at will</l>
+               <l>ingratefuly we Dealt.</l>
+               <l>We grant that is a ſober Truth,</l>
+               <l>though Jocundly expreſt,</l>
+               <l>But yet to ſtop the Beggars mouth,</l>
+               <l>do not conceal the reſt:</l>
+               <l>If ye the Argument retort,</l>
+               <l>believe it, ſo can we:</l>
+               <l>For poor folk, when they came athort,</l>
+               <l>no other thing cou'd ſee.</l>
+               <l>In ſtead of Bibles in your hand,</l>
+               <l>we ſaw a ſtock of Cards,</l>
+               <l>As fitter than the Ten Commands</l>
+               <l>for Gentlemen, and Lairds:</l>
+               <l>And ſome of you have play'd ſo long,</l>
+               <l>and <hi>Beaſted</hi> it, we ſee,</l>
+               <l>No ſober man comes you among</l>
+               <l>but muſt infected be.</l>
+               <pb facs="tcp:57783:11"/>
+               <l>(<gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> us if we lie)</l>
+               <l>So <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Religion being ſtarv'd</l>
+               <l>at laſt did from you flee:</l>
+               <l>In ſtead of Prayers and of praiſe,</l>
+               <l>your Throats did ſound like Hell,</l>
+               <l>With Blaſphemies both Nights and Dayes</l>
+               <l>and words we will not tell.</l>
+               <l>Ye perſecuted Honeſt folks,</l>
+               <l>who could not do as ye,</l>
+               <l>Yet think them now ſuch ſilly <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ouks,</l>
+               <l>as thus deluded be:</l>
+               <l>Ye think becauſe ye come and hear,</l>
+               <l>they ſhould repute you Saints,</l>
+               <l>Who fill'd the Land but t' other year</l>
+               <l>with all their ſad Complaints.</l>
+               <l>Your Doublet, Sirs, lets out and in</l>
+               <l>as ſelfiſh intereſt goes,</l>
+               <l>Though for a while ye do begin</l>
+               <l>as Friends, ye'le end as Foes.</l>
+               <l>What ye have done Remember then,</l>
+               <l>againſt both Bond and Vow:</l>
+               <l>We're ſure ye will prove honeſt men,</l>
+               <l>e're ſome believe you now.</l>
+               <l>There are among you, Sirs, who think</l>
+               <l>your ſelves far been, we're ſure:</l>
+               <l>Who yet can Dance, and Spew, and Drink</l>
+               <l>and Curſe, and Play the Whore.</l>
+               <pb n="21" facs="tcp:57783:11"/>
+               <l>Of old the Curious <hi>Bethſhemites</hi>
+                  <note place="margin">1 Sam: 6: 19:</note>
+               </l>
+               <l>by Fifty Thouſand fell:</l>
+               <l>If ſo, ye furious <hi>Iſhmaelites</hi>
+               </l>
+               <l>what waits you who can tell?</l>
+               <l>Ye who like <hi>Edonis</hi> wofull brood<note place="margin">
+                     <hi>Obadiah</hi> through out.</note>
+               </l>
+               <l>Gods People Cap<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ive led,</l>
+               <l>Who in the Croſs wayes often ſtood</l>
+               <l>to hew them down that fled,</l>
+               <l>To pick up ſuch as did remain</l>
+               <l>who raiſed the <hi>Hue</hi> and <hi>Cry,</hi>
+               </l>
+               <l>In ſtead of grief, whoſe hearts were fain</l>
+               <l>at their Calamity.</l>
+               <l>Ye Gentlemen to ſave your Riggs,</l>
+               <l>ye Countrey men your Hogs,</l>
+               <l>Leſt greater men ſhould judge you Whiggs</l>
+               <l>did hunt like <hi>Spaniel Dogs.</hi>
+               </l>
+               <l>That Principle which ye cry'd down,</l>
+               <l>in former Empror's Reign,</l>
+               <l>Your Wiſdoms now are made to own,</l>
+               <l>but with a worſe deſign.</l>
+               <l>Your ill raiſed Fortunes ſome men ſee,</l>
+               <l>this day are mouldring down:</l>
+               <l>And otherwiſe how can it be,</l>
+               <l>ſince GOD on them doth frown?</l>
+               <l>That man who gave the <hi>Covenant,</hi>
+               </l>
+               <l>but from his hand to burn;</l>
+               <l>Yet GOD his Judgments did not want,</l>
+               <l>his means to overturn.</l>
+               <pb n="22" facs="tcp:57783:12"/>
+               <l>Theſe ſtately Lands in Sixteen hours,</l>
+               <l>to Rubbiſh turned were:</l>
+               <l>Then tell us, Sirs, pray what is yours</l>
+               <l>that Wrath ye ſhould not fear?</l>
+               <l>Upon that Fire as Various men,</l>
+               <l>their Sentiments expreſt,</l>
+               <l>We Beggars our politicks then</l>
+               <l>brought forth among the reſt.</l>
+               <l>They cloſ'd there Ports againſt the Poor,</l>
+               <l>and ſet at them a Guard:</l>
+               <l>To keep the Beggars out: be ſure,</l>
+               <l>this was a due Reward.</l>
+               <l>
+                  <hi>Edinburgh</hi> that might get far more ill,</l>
+               <l>than Beggars many one.</l>
+               <l>'Twixt <hi>Abby,</hi> and the <hi>Caſtle-Hill,</hi>
+               </l>
+               <l>by Begging could have done.</l>
+               <l>The place where firſt the fire began,</l>
+               <l>was where they ſold the Meal:</l>
+               <l>Where Mongers many Curſes wan,</l>
+               <l>made many Begg and ſteal.</l>
+               <l>But here i's beſt due bonds to keep,</l>
+               <l>our Tongues ſhould ſpeak with fear;</l>
+               <l>Gods Judgments are ſo great a deep,</l>
+               <l>we rather ſhall forbear.</l>
+               <l>Beſides, we do not throughly know,</l>
+               <l>what <hi>Covenants</hi> do mean?</l>
+               <l>How far their Obligations go?</l>
+               <l>nor why thy fram'd have been?</l>
+               <pb n="23" facs="tcp:57783:12"/>
+               <l>For Pulpits gave no Cer<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ain ſound,</l>
+               <l>that Ignorance to cure:</l>
+               <l>Their wiſdoms other work have found,</l>
+               <l>to Perſecute the Poor.</l>
+               <l>Mean time their fancy ſtrangely vents,</l>
+               <l>as oft they find occaſion,</l>
+               <l>To <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>attle ov'r their Sentiments,</l>
+               <l>of former Reformation.</l>
+               <l>Some call our Vowes the Bonds of ſtrife.</l>
+               <l>(which Young Men chiefly do.)</l>
+               <l>Who ſcarce have read them all their Life,</l>
+               <l>and yet Reformers too.</l>
+               <l>Though others or them all are clear,</l>
+               <l>(if Men may them believe,)</l>
+               <l>Their Burial never brought a tear,</l>
+               <l>nor did their breach them grieve:</l>
+               <l>Yea ſome profeſſors will not want,</l>
+               <l>whatever may be fall,</l>
+               <l>Their tippling Kan for <hi>Covenant</hi>
+               </l>
+               <l>Church, Government and all.</l>
+               <l>Some grant the <hi>Covenants</hi> were good</l>
+               <l>and therefore ſhould be lov'd,</l>
+               <l>Yet ill Manadg'd occaſion'd blood,</l>
+               <l>Experience hath prov'd:</l>
+               <l>For ſtill Malignants took a Rant,</l>
+               <l>and ſakeleſs blood did ſpill</l>
+               <l>When we renew'd the <hi>Covenant,</hi>
+               </l>
+               <l>and this ye know did ill.</l>
+               <pb facs="tcp:57783:13"/>
+               <l>Therefore out Wiſdoms judge it beſt</l>
+               <l>as matters now do ſtand,</l>
+               <l>To Bury them, and let them reſt,</l>
+               <l>and not diſturb the Land,</l>
+               <l>Yea we reſolve, for good nor ill,</l>
+               <l>not to diſpleaſe the Pow'rs:</l>
+               <l>But let the Great men take their will</l>
+               <l>ſince we cannot get ours.</l>
+               <l>If Parliament now when it ſits,</l>
+               <l>ſhould us command to Swear,</l>
+               <l>The <hi>Covenant:</hi> why, then it ſits</l>
+               <l>our minds, the Caſe is clear.</l>
+               <l>But if their Wiſdoms good ſhall find,</l>
+               <l>(as no doubt but they will)</l>
+               <l>No Acts againſt it to reſcind,</l>
+               <l>but let them all ſtand ſtill.</l>
+               <l>What would Schiſmaticks have us do,</l>
+               <l>who ſee the caſe thus goes?</l>
+               <l>We want both Will and Courage too,</l>
+               <l>their doings to oppoſe.</l>
+               <l>We do confeſs, its bloody cryes,</l>
+               <l>which mens wit now diſdains,</l>
+               <l>Increaſe our fears, it yet may riſe,</l>
+               <l>and pay us for our pains.</l>
+               <l>Theſe <hi>Covenants</hi> ſeem bits of paper,</l>
+               <l>if Juſtice were come forth.</l>
+               <l>Their price, we fear, prove litle cheaper</l>
+               <l>than ſome mens necks are worth.</l>
+               <pb n="25" facs="tcp:57783:13"/>
+               <l>But yet when all is come and gone;</l>
+               <l>it's beſt to hold our peace,</l>
+               <l>For other Help we ſee there's none</l>
+               <l>in ſuch a tickliſh caſe.</l>
+               <l>We ſhould learn wit from what is paſt,</l>
+               <l>and ſtill more Pââkie grow,</l>
+               <l>So what we have, we may keep faſt,</l>
+               <l>it is enough ye know;</l>
+               <l>This is a Conttovetted point,</l>
+               <l>'twixt us and other ſome:</l>
+               <l>But Unity we'le not disjoint,</l>
+               <l>whatever caſe may come.</l>
+               <l>Some ſay, there are ſome faults to mend,</l>
+               <l>which may be helped too:</l>
+               <l>But what! Complaints will never end,</l>
+               <l>what therefore ſhall we do?</l>
+               <l>Shall men of wit go draw to Factions?</l>
+               <l>then ſhortly all ſhould be</l>
+               <l>In Hurly<g ref="char:punc">▪</g>burlies and Diſtractions:</l>
+               <l>the thing is clear ye ſee<g ref="char:punc">▪</g>
+               </l>
+               <l>Whither ſuch Tales be hot or Cold,</l>
+               <l>we Poor Folk cannot tell:</l>
+               <l>Or if their Arguments do hold,</l>
+               <l>theſe Reaſons who Refell,</l>
+               <l>By ſaying, Truth gives alwiſe Beauty;</l>
+               <l>to Union where it is:</l>
+               <l>Conſpiracy is not a Duty,</l>
+               <l>in ſuch a Courſe as this?</l>
+               <pb n="26" facs="tcp:57783:14"/>
+               <l>It is well known to all theſe Lands,</l>
+               <l>what we Engadg'd to do;</l>
+               <l>How <hi>Scotland</hi> ſware with lifted hands,</l>
+               <l>States. Men, and Church-Men too,</l>
+               <l>To own that Covenanted cauſe,</l>
+               <l>with Liſe, Goods, and Eſtate,</l>
+               <l>Which had the Sanction of the Laws:</l>
+               <l>which now are out of date:</l>
+               <l>How Reſolutions brought in,</l>
+               <l>(whence ſprang the Churches tears)</l>
+               <l>The cauſe of all, the Noiſe and din,</l>
+               <l>hath been theſe many years.</l>
+               <l>Malignants then, that bloody crew,</l>
+               <l>by this ſo proud were grown,</l>
+               <l>Our Covenants they brunt: and flew,</l>
+               <l>all who the ſame did own.</l>
+               <l>Yet all they did had not the force,</l>
+               <l>mens Courage to impair,</l>
+               <l>Till ſome devis'd that <hi>Trajan</hi> horſe,</l>
+               <l>Indulgence for a <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uare:</l>
+               <l>Then <hi>Gilead Balm</hi> came to cure,</l>
+               <l>the Church of her diſtreſs,</l>
+               <l>And Coy-Ducks did the wild allure,</l>
+               <l>and gain'd ay more or leſs.</l>
+               <l>Malignants then ſent forth <hi>Dragoons,</hi>
+               </l>
+               <l>brought poor men in as prizes;</l>
+               <l>Profeſſing <hi>Presbyterian</hi> Lowns</l>
+               <l>did ſit on their Aſſizes.</l>
+               <pb n="27" facs="tcp:57783:14"/>
+               <l>Yea Miniſters (alas therefore)</l>
+               <l>herein gave great offence,</l>
+               <l>By growing ſilent more and more</l>
+               <l>With prudence for pretence.</l>
+               <l>When Curates Sermons did no good</l>
+               <l>to any who went near them,</l>
+               <l>But did deprive poor Souls of food,</l>
+               <l>yet Miniſters did hear them:</l>
+               <l>If every one had done as they,</l>
+               <l>and made no greater ſtirs:</l>
+               <l>In what caſe had we been this day,</l>
+               <l>by all appearance, Sirs?</l>
+               <l>Ye prove, or ye aſſert it rather</l>
+               <l>ye now ſay what ye will:</l>
+               <l>Ye are miſtaken Ghoſtly Fathers,</l>
+               <l>but do not take it ill:</l>
+               <l>Theſe men who have not yet comply'd,</l>
+               <l>Schiſmaticks cannot be,</l>
+               <l>For if the caſe were duely try'd,</l>
+               <l>impartial men might ſee;</l>
+               <l>The Arguments for your defence,</l>
+               <l>which in this caſe ye bring,</l>
+               <l>To thinking men bear as good ſenſe,</l>
+               <l>ye worſe in every thing:</l>
+               <l>As put the caſe, that <hi>Glaſgow</hi> ſteeple</l>
+               <l>ſhould in a windie night,</l>
+               <l>Fall down on Houſes and the People,</l>
+               <l>which were a dreadfull ſight.</l>
+               <pb n="28" facs="tcp:57783:15"/>
+               <l>Yet confidently cry, a Hollow,</l>
+               <l>theſe Stones which yet do ſtand,</l>
+               <l>Schiſmaticks are, that will not follow:</l>
+               <l>let's all go hand in hand.</l>
+               <l>It's true ſomes Conſcience makes no bones,</l>
+               <l>if thereby gain they get,</l>
+               <l>To lift theſe old Foundation ſtones</l>
+               <l>our firſt Reformers let.</l>
+               <l>Yea will Malignants Juſtify,</l>
+               <l>rather than ſuch as ſtood</l>
+               <l>For truth and Mankinds Liberty</l>
+               <l>reſiſting unto blood;</l>
+               <l>And could not at Defection wink</l>
+               <l>as others baſely did;</l>
+               <l>We need not prove it: For we think</l>
+               <l>theſe things cannot be hid.</l>
+               <l>Such tales as theſe we ſometimes heat</l>
+               <l>when we a Begging go;</l>
+               <l>And yet indeed we are not clear</l>
+               <l>in any of the two:</l>
+               <l>For no man's ill thats good to us,</l>
+               <l>profeſs, Sirs, what he will:</l>
+               <l>It's well if we could purchaſe thus</l>
+               <l>our Backs and Bellies full.</l>
+               <l>Moſt part of us do where we Lodge</l>
+               <l>comply with the Good-man:</l>
+               <l>And of his Graces do not Judge</l>
+               <l>whether he bleſs or ban,</l>
+               <pb facs="tcp:57783:15"/>
+               <l>If he bid fill our empty Diſhes,</l>
+               <l>and in a houſe us lay,</l>
+               <l>We give him many empty Wiſhes,</l>
+               <l>and ſo we come our way.</l>
+               <l>But now its time we end our ſpeach,</l>
+               <l>within a verſe or two:</l>
+               <l>It's long enough to <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ight a breech,</l>
+               <l>the way we fear it go,</l>
+               <l>If our Complaints no hearing get,</l>
+               <l>for all that we can ſay;</l>
+               <l>We muſt content our ſelves and wait,</l>
+               <l>untill another day.</l>
+               <l>This is indeed our day of Hunger,</l>
+               <l>which nips and bites us ſore:</l>
+               <l>The day of Thirſt to come is longer;</l>
+               <l>to ſome for evermore,</l>
+               <l>We know Objections that are brought;</l>
+               <l>ſhould have been anſwer'd here;</l>
+               <l>Which to have done we alſo thought;</l>
+               <l>but yet we muſt forbear-</l>
+               <l>It's neither, Sirs, for want of Rime,</l>
+               <l>nor yet for want of Reaſon:</l>
+               <l>But we muſt chooſe another time,</l>
+               <l>more now is out of Seaſon,</l>
+               <l>Yet this may be a help to ſome,</l>
+               <l>to light their pipe, <hi>ſi placet;</hi>
+               </l>
+               <l>Since it a proverb is become,</l>
+               <l>
+                  <hi>pauper ubiqu<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> jacet:</hi>
+               </l>
+            </lg>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
